@@ -8,7 +8,7 @@ while True:
         break
     list.append(item)
     
-string=input("Enter a string:")
+string=input("Enter a string    junjhn :")
 
 tuple_items=tuple(list)+tuple(string)
 
